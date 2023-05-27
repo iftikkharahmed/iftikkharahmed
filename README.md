@@ -16,7 +16,7 @@ I'm a web developer with experience in React JS. Welcome to my GitHub profile!
 # How to Reach Me
 
 Email: iftikharbaloch124@gmail.com
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/iftikhar-ahmed-182893275/
 Twitter:
 
 Feel free to reach out to me if you have any questions or want to collaborate on a project. I'm always happy to chat with fellow developers!
